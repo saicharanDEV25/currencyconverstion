@@ -1,4 +1,4 @@
-  //print average of three numbers (average =n1+n2+n3/3)
+  //printssss average of three numbers (average =n1+n2+n3/3)
  class average
  {
 	 public int average(int n1,int n2,int n3)
